@@ -1,4 +1,4 @@
-# job_categorization_unsupervised_learning
+# Job categorization to assess automation risk using unsupervised machine learning
 Using the O* net dataset, Callum and I attempted to categorize jobs using NLP techniques and unsupervised  ML models as part of the workforce analytics course at Imperial College London.
 
 ## You can find in this repository:
@@ -14,4 +14,4 @@ Using the O* net dataset, Callum and I attempted to categorize jobs using NLP te
 - We then used the sklearn library and the implementation of K-means unsupervised algorithms to classify words into 5 different groups. 
 - Then we decided to show the results of classifying the jobs using either hierarchical clustering and k-means models taking into account the frequency of each word group in each task (groups of words figuring in the O Net data set).
 
-### 3. The HTML file containing the code
+### 4. The HTML files containing the code
