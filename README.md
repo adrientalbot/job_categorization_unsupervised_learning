@@ -11,4 +11,4 @@ Using the O* net dataset, Callum and I attempted to categorize jobs using NLP te
 - We then used the sklearn library and the implementation of K-means unsupervised algorithms to first classify words into 5 different groups. 
 - Then we decided to show the results of classifying the tasks (groups of words figuring in the O Net data set) using either hierarchical clustering and k-means models taking into account the frequency of each word group in each task. 
 
-### 3. 
+### 3. The HTML file containing the code
