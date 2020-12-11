@@ -8,7 +8,7 @@ Using the O* net dataset, Callum and I attempted to categorize jobs using NLP te
 ### 2. The jupyter notebook with the application of ML models with the aim to identify job clusters with high likelihood of automation risk
 
 - We first used the word2vec package to vectorize words (assign numerical values) which would make it easier for the classification of the words.
-- We then used the sklearn library and the implementation of K-means unsupervised algorithms to first classify words into 5 different groups. 
-- Then we decided to show the results of classifying the tasks (groups of words figuring in the O Net data set) using either hierarchical clustering and k-means models taking into account the frequency of each word group in each task. 
+- We then used the sklearn library and the implementation of K-means unsupervised algorithms to classify words into 5 different groups. 
+- Then we decided to show the results of classifying the jobs using either hierarchical clustering and k-means models taking into account the frequency of each word group in each task (groups of words figuring in the O Net data set).
 
 ### 3. The HTML file containing the code
