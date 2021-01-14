@@ -1,5 +1,5 @@
 # Job categorization to assess automation risk using unsupervised machine learning
-Using the O* net dataset, Callum and I attempted to categorize jobs using NLP techniques and unsupervised  ML models as part of the workforce analytics course at Imperial College London.
+Using the O* net dataset, Callum and I attempted to categorize jobs with the aim to assess the likelihood of automation using NLP techniques and unsupervised  ML models as part of the workforce analytics course at Imperial College London.
 
 ## You can find in this repository:
 
