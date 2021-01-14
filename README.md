@@ -13,3 +13,6 @@ Using the O* net dataset, Callum and I attempted to categorize jobs with the aim
 - Finally we decided to show the results of classifying the jobs using either hierarchical clustering and k-means models taking into account the frequency of each word group in each task (groups of words figuring in the O Net data set).
 
 ### 3. The HTML file containing the code
+
+## Conclusions: 
+
